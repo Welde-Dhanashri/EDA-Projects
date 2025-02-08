@@ -1,2 +1,2 @@
 ### 📊 Exploratory Data Analysis (EDA)
-![image](
+![image](EDA image.png)
