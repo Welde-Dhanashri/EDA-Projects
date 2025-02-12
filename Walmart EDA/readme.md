@@ -1,5 +1,5 @@
 ### Walmart Sales EDA
-### ⭐ Project Overview
+### ⭐Overview
 📌 This project revolves around the exploratory data analysis (EDA) of sales made by Walmart in 45 stores. The objective is to analyze the weekly sales, assess the trends and patterns along with the seasonality and all associated factors.
 
 ### 📂 Dataset Information
