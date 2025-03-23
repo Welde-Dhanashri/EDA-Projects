@@ -9,6 +9,14 @@ his repository contains different Exploratory Data Analysis (EDA) projects on va
 * Visualization – Creating charts and graphs for better understanding.
 * Analysis – Finding key patterns and useful insights.
 
+# Topics
+* Diwali Sales EDA – Analyzing sales patterns during the Diwali festival.
+* FIFA EDA – Exploring player statistics and team performance in FIFA.
+* IPL EDA – Analyzing Indian Premier League matches and player data.
+* Netflix EDA – Understanding content trends on Netflix (genres, ratings, etc.).
+* Tourist Travelling Analysis – Examining travel patterns and tourist behavior.
+* Walmart EDA – Analyzing sales and customer trends at Walmart
+
 # 📂 Project Structure
 
 * Data – Raw datasets (CSV files).
