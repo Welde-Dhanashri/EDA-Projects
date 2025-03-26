@@ -14,6 +14,7 @@ his repository contains different Exploratory Data Analysis (EDA) projects on va
 * FIFA EDA – Exploring player statistics and team performance in FIFA.
 * IPL EDA – Analyzing Indian Premier League matches and player data.
 * Netflix EDA – Understanding content trends on Netflix (genres, ratings, etc.).
+* New York Airbnb EDA – Analyzing pricing trends, availability, and host behavior in NYC Airbnb listings.
 * Tourist Travelling Analysis – Examining travel patterns and tourist behavior.
 * Walmart EDA – Analyzing sales and customer trends at Walmart
 
